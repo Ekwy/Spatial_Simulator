@@ -1,0 +1,18 @@
+Scrum Master: Charles-Étienne
+Product Owner: William
+
+
+Début 05/05/17 
+Fin  16/05/17  
+Sprint 6: objectif: Atterrissage et menus
+
+Story A: Affichage de la planète
+
+
+Story B: Atterrissage de la fusée
+
+Story C: Menus
+	Prototypage
+	Développement
+
+Story D: Parachute

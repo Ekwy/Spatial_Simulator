@@ -1,0 +1,18 @@
+﻿Sprint 4 : 31/03/2017 à 14/04/2017
+	Objectif: Créer un environnement de construction(pouvoir construire une fusée).
+
+		Story A: Programmer l'environnement
+			-Modéliser l'environnement Nicolas Charles-Étienne Patrick
+
+		Story B: Conception et programmation des points d'arrimages
+			-Pod
+			-Réacteur
+			-Parachute
+
+		Story C: Physique des models
+			-centre de masse Nicolas
+
+		Story D: Caméra adapté à l'environnement.
+			Caméra Singelton Charles-Étienne 100%
+			-Monter/descendre
+			-zoom dynamique Thierry

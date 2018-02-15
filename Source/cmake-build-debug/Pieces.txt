@@ -1,0 +1,66 @@
+#R string(name) string(meshPath) string(texturePath) bool(hasHitbox) double(volume) string(materialName) double(maxDurability) double(price) string(+additionalDataName) double(additionalData)
+#A isMale socket pos.X pos.Y pos.Z norm.X norm.Y norm.Z
+C PodA Textures3D/Piece/PodA.obj Textures3D/Piece/Skins/PodARed.png false 14 IRON 2500 100 +transportableMass 500
+A false 0 0.0 0.92073 0.0 0.0 1.0 0.0
+A false 0 0.558090 0.29708 0.111010 0.851000 0.497000 0.169000
+A false 0 -0.11101 0.29708 0.558090 -0.16900 0.497000 0.851000
+A false 0 -0.55809 0.29708 -0.11101 -0.85100 0.497000 -0.16900
+A false 0 0.111010 0.29708 -0.55809 0.169000 0.497000 -0.85100
+A false 0 0.0 -0.9175 0.0 0.0 -1.00000 0.0
+E
+#R Reacteur1 Textures3D/Piece/reactor1.obj Textures3D/Piece/Skins/tex3_reactor1.png true 14 LIQUIDHYDROGEN 2500 25 +ejectionSpeed 4000 +ejectedGas 400
+#A true 1 0.0 0.786510 0.0 0.0 1.0 0.0
+#A false 0 -0.29902 0.124710 -0.52563 -0.48500 0.194000 -0.85300
+#A false 0 -0.56957 0.124710 0.203200 -0.92400 0.194000 0.330000
+#A false 0 0.101210 0.124710 0.596200 0.164000 0.194000 0.967000
+#A false 0 0.604720 0.124710 0.003860 0.981000 0.194000 0.007000
+#E
+F GrippyFuelTank Textures3D/Piece/FuelContainerGripEdition.obj Textures3D/Piece/Skins/FuelContainerGripEdition.png false 6.26485682 IRON 1800 20 +capacity 10000
+A true 0 0.0 2.5 0.0 0.0 1.0 0.0
+A false 1 0.0 -2.5 0.0 0.0 -1.0 0.0
+E
+T LowPressureReactor Textures3D/Piece/LowPressureReactor.obj Textures3D/Piece/Skins/LowPressureReactor.png false 30 IRON 2500 25 +power 300
+A true 0 0.0 -0.76000 0.0 0.0 -1.0 0.0
+E
+D Decoupler Textures3D/Piece/Decoupler.obj Textures3D/Piece/Skins/Decoupler.png false 1 IRON 1000 5
+A true 0.0 1.070000 0.0 0.0 1.0 0.0
+A false 0.0 -1.070000 0.0 0.0 -1.0 0.0
+E
+R TheBarrel Textures3D/Piece/TheBarrel.obj Textures3D/Piece/Skins/TheBarrel.png false 13.0289783478 IRON 2500 30 +ejectionSpeed 8000 +ejectedGas 1000
+A true 1 0.0 1.78924 0.0 0.0 1.0 0.0
+A false 0 1.2 0.0 0.0 1.0 0.0 0.0
+A false 0 -1.2 0.0 0.0 -1.0 0.0 0.0
+A false 0 0.0 0.0 1.2 0.0 0.0 1.0
+A false 0 0.0 0.0 -1.2 0.0 0.0 -1.0
+E
+R Reacteur2 Textures3D/Piece/Reactor2.obj Textures3D/Piece/Skins/Reactor2.png false 14 LIQUIDHYDROGEN 2500 25 +ejectionSpeed 4000 +ejectedGas 400
+A true 1 0.0 0.786510 0.0 0.0 1.0 0.0
+A false 0 -0.29902 0.124710 -0.52563 -0.48500 0.194000 -0.85300
+A false 0 -0.56957 0.124710 0.203200 -0.92400 0.194000 0.330000
+A false 0 0.101210 0.124710 0.596200 0.164000 0.194000 0.967000
+A false 0 0.604720 0.124710 0.003860 0.981000 0.194000 0.007000
+E
+F Obelisk Textures3D/Piece/Obelisk.obj Textures3D/Piece/Skins/Obelisk.png false 14.05170631 IRON 2500 40 +capacity 16000
+A true 0 0.0 3.22 0.0 0.0 1.0 0.0
+A false 0 -0.75633 0.0 0.0 -1.0 0.0 0.0
+A false 0 0.37817 0.0 0.655 0.500006 0.0 0.866022
+A false 0 0.37817 0.0 -0.655 0.500006 0.0 -0.866022
+A false 1 0.0 -3.42 0.0 0.0 -1.0 0.0
+E
+D MiniDecoupler Textures3D/Piece/MiniDecoupler.obj Textures3D/Piece/Skins/MiniDecoupler.png false 0.09082724 IRON 200 5
+A true 0.0 0.135 0.0 0.0 1.0 0.0
+A false 0.0 -0.135 0.0 0.0 -1.0 0.0
+E
+F CheapFuelTank Textures3D/Piece/CheapFuelTank.obj Textures3D/Piece/Skins/CheapFuelTank.png false 1.64271021 COKE 200 3 +capacity 4000
+A true 0 0.4 0.0 0.0 1.0 0.0 0.0
+A false 1 0.0 -1.46474 0.0 0.0 -1.0 0.0
+E
+T Nozzle Textures3D/Piece/Nozzle.obj Textures3D/Piece/Skins/Nozzle.png false 0.04958512 IRON 200 10 +power 1500
+A true 0 0.0 -0.38641 0.0 0.0 -1.0 0.0
+E
+C Dipyramid Textures3D/Piece/Dipyramid.obj Textures3D/Piece/Skins/Dipyramid.png false 0.86602545 IRON 2500 500 +transportableMass 500
+A false 0 0.0 -1.0 0.0 0.0 -1.0 0.0
+A false 0 -0.28827 0.33287 0.16667 -0.577350 0.577350 0.577350
+A false 0 0.28908 0.33287 0.16667 0.577350 0.577350 0.577350
+A false 0 0.0 0.33287 -0.33333 0.577350 0.577350 -0.577350
+E

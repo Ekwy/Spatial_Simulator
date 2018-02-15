@@ -1,0 +1,19 @@
+Sprint 8  Date limite 23 mai
+product owner: Charles-Etienne
+scrum Master: Thierry
+
+But: Gestion économique du projet
+Story A:Report Scene
+	thierry
+
+Story B:Inventaire
+	jason
+
+Story C:Magasin Argent
+	Piette
+
+Story D: Dommage au pieces
+	Samuel
+
+Story E: Feu des réacteurs
+	Jason

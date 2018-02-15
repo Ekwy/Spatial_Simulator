@@ -1,0 +1,26 @@
+Scrum Master: Thierry
+Product Owner: Nicolas
+
+
+D�but 25/04/17 
+Fin  05/05/17  
+Sprint 6: objectif: Mettre une fus�e en orbite
+
+Story A: Conception Pi�ces sp�ciales
+	Tout le monde
+
+
+Story B: Physique des rotations
+	Charles-�tienne
+
+Story C: Contr�le de la fus�e
+    Jason
+
+Story D: Contr�le des pi�ces - (S�lection des pi�ces, liste � droite des pi�ces s�lectionn�es)
+
+
+Story E: Communication entre les pi�ces
+
+
+Story F: Orbite
+    Nicolas et William

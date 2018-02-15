@@ -1,0 +1,14 @@
+﻿Sprint 5 : 14/04/2017 à 21/04/2017
+	Objectif: Mettre une fusée dans l'espace
+
+		Story A: Lancer une mission
+
+		Charles-Étienne et Thierry
+
+		Story B: Décoller une fusée
+
+		Story C: Piloter la fusée
+
+		Story D: Appliquer la physique
+
+		Story E: Transférer les données de BuildScene à MissionScene

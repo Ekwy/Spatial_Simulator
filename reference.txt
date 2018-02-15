@@ -1,0 +1,5 @@
+Pourquoi "const char*" au lieu de "char*"
+	http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char
+
+Use non-const objects in lambdas
+	http://stackoverflow.com/questions/2835626/c0x-lambda-capture-by-value-always-const

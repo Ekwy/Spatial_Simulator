@@ -1,0 +1,17 @@
+Sprint 2 : 17/03/2017 à 24/03/2017
+
+	Objectif : Développer le framework 3D
+
+	Story A : Conception des classes liées au framework 3D
+		TOUS : à terminer
+
+	Story B : Développement des classes Camera / Mesh
+
+		Camera : Samuel 20% + Jason 80% 
+		Model : Charles-Étienne 20% + Samuel 50%
+		Mesh : Samuel 20% + Jason 80%
+		Singleton : CHarles-Étienne 50% + Samuel 50%
+
+	Story C*: Paufiner / Corriger le framework 2D
+
+		

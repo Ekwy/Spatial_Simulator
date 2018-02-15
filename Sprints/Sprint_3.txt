@@ -1,0 +1,20 @@
+﻿Sprint 3 : 24/03/2017 � 31/03/2017
+
+	Objectif : Sandbox fonctionnelle
+
+		Story A : Programmer les hitboxs.
+		FAIT 100% -> SAM
+
+		Story B : Programmer les collisions 3D (avec et sans hitbox).
+		Fait 50% ->Guillaume
+
+		Story C : Avoir des panels plus manoeuvrables et un affichage convivial.
+		Charles-�tienne : Stage 100%
+		Réforme de scene : Samuel et Charles-Étienne 100%
+		ScrollablePanel : William 100%
+		
+		Story D : Model draggable dans le monde 3D.
+		FAIT 70% ->SAM-Thierry (Manque collision)
+
+		Story E : Normes de modellisation
+		FAIT 100% -> SAM

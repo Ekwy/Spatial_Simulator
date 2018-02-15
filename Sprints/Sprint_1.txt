@@ -1,0 +1,39 @@
+﻿Sprint 1 : 10/3/2017 à 17/3/2017
+	objectif -> terminer la conception des menus
+	-story A : concevoir le diagramme de classe pour le menu : TOUS
+	-story B : développer les classes du diagramme
+		Stage : Jason - 90% (Dure à dire s'il y a pas Panel et Mesh) Documentation : Charles-Étienne
+		Game Loop : Jason - 100%
+
+		EventDispatcher : Jason - 100%
+
+		Observer : Jason - 100%
+	
+        	Observable : Jason - 100%
+
+		Mesh
+		
+		Panel : Jason - 50%
+	
+		VisualComponent2D : Jason - 75% (Need to implement texture)
+	
+		Button
+ : Thierry - 40%		
+		Checkbox
+ : Nicolas		
+		Label
+ : 	
+		TextInput
+ : Thierry	
+		ScrollBar
+ : William	
+		Rect : Jason - 75% (Lacks non-filled mode + draw pos relative to panel's pos)
+
+
+MISE AU POINT
+
+Objectif : ATTEINT
+
+Faire la documentation au fur et à mesure qu'on fait la classe.
+
+Faire un scrollable avec un pointeur

@@ -1,0 +1,6 @@
+NORMES DE MODELLISATION
+1. L'objet doit être centré en 0, 0, 0
+2. L'objet doit être couché ou debout
+3. 1 unité openGL = 1 unité blender = 1 mètre
+4. Prendre des images à très haute résolution
+5. 1 mesh par texture

@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.idea/
+*.exe
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+Source.cbp
+cmake_install.cmake
+
+html/
+latex/
+doxygen_sqlite3.db
